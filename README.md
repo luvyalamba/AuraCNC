@@ -38,6 +38,4 @@ AuraCNC is an AI-powered rapid prototyping platform that transforms images taken
 
 ## Authors
 
-- Luvya Lamba
-- Rishab Kumar Jha
-- Dhriti Dhall
+
